@@ -3,10 +3,10 @@
 Welcome to my GitHub! I’m passionate about building AI-powered applications, data-driven insights, and intelligent systems that make real-world impact. From analyzing trends in Malaysian news to building predictive models for Adidas sales, my work combines machine learning, data science, and software development to solve practical problems.
 
 🚀 About Me
-🎓 Final Year Computer Science student (AI / Data Science focus)
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing
-🛠️ Experienced in building web applications, clustering models, sentiment analysis, recommendation systems, and gamified learning tools
-🌱 Always exploring new ways to combine data + AI + creativity to improve user experience
+- 🎓 Final Year Computer Science student (AI / Data Science focus)
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing
+- 🛠️ Experienced in building web applications, clustering models, sentiment analysis, recommendation systems, and gamified learning tools
+- 🌱 Always exploring new ways to combine data + AI + creativity to improve user experience
 
 🏆 Featured Projects
 📊 Intelligent News Content Discovery System
